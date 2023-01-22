@@ -1,5 +1,5 @@
 <h1 align="center"> Habits</h1>
-<h4 align="center">  https://andradeelton.github.io/projeto/ </h4>
+<h4 align="center">  https://andradeelton.github.io/nlw-setup/ </h4>
 <p align="center">
 NLW é um evento exclusivo e gratuito, promovido pela Rockerseat para ensino de tecnologias WEB
 </p>
